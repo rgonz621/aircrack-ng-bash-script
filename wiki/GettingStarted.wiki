@@ -1,4 +1,4 @@
-#This will set up your system for the script.
+This will set up your system for the script.
 
 = Introduction =
 
