@@ -1,6 +1,13 @@
 This will set up your system for the script.
 
 = Introduction =
+You first must set up Kismet to use the scripts scanning ability. To do this, navigate to
+: /etc/kismet and (opening with root privileges) open kismet.config. Then, you must find the source line and change it to: source=bcm43xx,mon0,Wireless 
+
+
+
+
+
 
 [http://code.google.com/ http://code.google.com/images/code_sm.png]
 
